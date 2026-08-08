@@ -26,5 +26,5 @@ uvicorn main:app --reload
 Open http://127.0.0.1:8000
 
 ## Team
-Shashank Paladugu (Team Lead) · Jaideep Tammineni · Venkata Krishna Nishanth Gopidesi ·
-Muskan Muskan · Yashwanth Rayudu
+Pavani (Team Lead) · Mukesh · Indhu priya·
+Surya· Chitrada Bhargavi
